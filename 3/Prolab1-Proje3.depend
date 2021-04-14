@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1609502962 source:c:\users\asus\desktop\prolab1-proje3\main.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1610612501 source:c:\users\asus\desktop\school things\prolab\1\proje3\proje\main.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
